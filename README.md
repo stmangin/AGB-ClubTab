@@ -169,7 +169,7 @@ Der Anbieter haftet insbesondere nicht für die Richtigkeit, Vollständigkeit od
 
 ## 11. Datenschutz
 
-Informationen zur Verarbeitung personenbezogener Daten finden Sie in der [Datenschutzerklärung](./).
+Informationen zur Verarbeitung personenbezogener Daten finden Sie in der [Datenschutzerklärung](https://github.com/stmangin/Privacy-Policy-Clubheim-Kasse/blob/main/README.md).
 
 ---
 
